@@ -2,6 +2,12 @@
 
 using namespace std;
 
+// ================
+
+// Not Done
+
+// ================
+
 int l, d, x;
 
 bool valid(int n){
